@@ -116,7 +116,7 @@ header {
 }
 
 .hamburger-icon {
-    display: block;
+    display: none;
     font-size: 2rem;
 }
 
