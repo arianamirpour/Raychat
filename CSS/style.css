@@ -409,3 +409,133 @@ main {
     margin-top: 20px;
 }
 
+
+
+/* ---------------------Comments------------------------- */
+
+.comments {
+    text-align: center;
+    font-size: .8rem;
+}
+
+.comments p:first-child {
+    color: #841474;
+    margin-bottom: 10px;
+
+}
+
+.comments p:last-child {
+    margin-top: 10px;
+    line-height: 26px;
+    width: 95%;
+}
+
+.image-comments {
+    margin-top: 40px;
+}
+
+.first-image {
+    display: flex;
+    justify-content: flex-start;
+    padding: 5px 10px;
+    
+}
+
+
+.first-image img {
+    width: 70px;
+    border-radius: 50%;
+}
+
+.first-customer-comment {
+    padding-right: 10px;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.first-customer-comment h2{
+    font-size: 1.1rem;
+    
+}
+
+.first-customer-comment p{
+    font-size: .8rem;
+}
+
+.first-image:hover {
+    background-color: #F4F5F7;
+    border-radius: 10px;
+    transition: 0.7s all ease;
+}
+
+.second-image {
+    margin-top: 20px;
+    display: flex;
+    justify-content: flex-start;
+    padding: 5px 10px;  
+}
+
+
+.second-image img {
+    width: 70px;
+    border-radius: 50%;
+}
+
+.second-customer-comment {
+    padding-right: 10px;
+    margin-top: 10px;
+
+}
+
+.second-customer-comment h2{
+    font-size: 1.1rem;
+    
+}
+
+.second-customer-comment p{
+    font-size: .8rem;
+}
+
+.second-image:hover {
+    background-color: #F4F5F7;
+    border-radius: 10px;
+    transition: 0.7s all ease;
+    
+}
+
+
+/* ------------------------------third-customer-comments------------------------------- */
+
+.third-image {
+    margin-top: 20px;
+    display: flex;
+    justify-content: flex-start;
+    padding: 5px 10px;  
+}
+
+.third-image img {
+    width: 70px;
+    border-radius: 50%;
+}
+
+.third-customer-comment {
+    padding-right: 10px;
+    margin-top: 10px;
+
+}
+
+.third-customer-comment h2{
+    font-size: 1.1rem;
+    
+}
+
+.third-customer-comment p{
+    font-size: .8rem;
+}
+
+.third-image:hover {
+    background-color: #F4F5F7;
+    border-radius: 10px;
+    transition: 0.7s all ease;
+    
+}
